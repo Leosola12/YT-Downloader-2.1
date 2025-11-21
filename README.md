@@ -23,9 +23,13 @@ Construida con Streamlit y yt-dlp.
 
 yt_downloader_app/
 ├── app.py               # Interfaz Streamlit
+
 ├── downloader.py        # Lógica de descarga (videos, audios, subtítulos)
+
 ├── utils.py             # Validaciones y helpers
+
 ├── requirements.txt     # Dependencias
+
 └── README.txt           # Documentación
 
 ---
