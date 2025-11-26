@@ -1,8 +1,8 @@
 
 # 🎬 YT Downloader 2.1 – Streamlit Edition
 
-Una aplicación web simple y poderosa para descargar **videos, audios y subtítulos de YouTube** con estilo.  
-Construida con Streamlit y yt-dlp.
+Una aplicación web simple  para descargar **videos, audios y subtítulos de YouTube**.  
+Construida con Streamlit y, sobre todo: yt-dlp.
 
 ---
 
